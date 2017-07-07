@@ -5,7 +5,7 @@ This is an R Markdown document I created to share some useful tips and tricks I 
 
 Some of the tutorials I have included so far are: 
 
-1. Writing data to googlesheets directly from R. If you are a person who uses R for data manipulation and googlesheets to share your results with others, take a look at this document! It hardly takes 2 minutes!
+1. gsheetsTutorial: Writing data to googlesheets directly from R. If you are a person who uses R for data manipulation and googlesheets to share your results with others, take a look at this document! It hardly takes 2 minutes!
 
 
 Check this space frequently for more tutorials!
