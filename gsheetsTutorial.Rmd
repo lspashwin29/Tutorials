@@ -72,7 +72,7 @@ It is possible to write multiple sheets in a single workbook. You can accomplish
 ```{r gsheetWrite2, eval = FALSE, tidy = TRUE, message = FALSE}
 
 gsheet <- gsheet %>%   
-  gs_ws_new(ws_title = "secondSheet", input = tail(mtcars),
+            gs_ws_new(ws_title = "secondSheet", input = tail(mtcars),
             trim = TRUE, verbose = FALSE)
 
 ```
