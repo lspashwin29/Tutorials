@@ -8,4 +8,4 @@ Some of the tutorials I have included so far are:
 1. Writing data to googlesheets directly from R. If you are a person who uses R for data manipulation and googlesheets to share your results with others, take a look at this document! It hardly takes 2 minutes!
 
 
-Check this space for more tutorials that might be helpful!
+Check this space frequently for more tutorials!
