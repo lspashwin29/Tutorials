@@ -50,7 +50,8 @@ gsheet <- gs_new(title = "spreadsheetTitle", ws_title = "firstSheet", input = he
                     trim = TRUE, verbose = FALSE)
 
 ```
-**Let me break down the `gs_new` command for you: **
+
+Let me break down the `gs_new` command for you:
 
     title = "spreadsheetTitle" : the name you want to give for your workbook (the googlesheet)
     ws_title = "firstSheet"    : the name of the sheet inside the workbook
