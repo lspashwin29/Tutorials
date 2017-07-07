@@ -24,8 +24,6 @@ This document will help you bring down the two-step process to one-step, by writ
 install.packages("googlesheets")
 library(googlesheets)
 
-# Other packages used in this document
-library(dplyr)  #For piping
 ```
 ## Step 2: Giving access to your google account
 
