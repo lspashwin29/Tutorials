@@ -78,7 +78,7 @@ gsheet <- gsheet %>%
             trim = TRUE, verbose = FALSE)
 
 ```
-**Let me break down the `gs_ws_new` command for you: **
+Let me break down the `gs_ws_new` command for you: 
 
     gsheet %>%                  : we are using the piping (chaining) operator from dplyr here
     ws_title = "secondSheet"    : the name of the second sheet inside the existing workbook
