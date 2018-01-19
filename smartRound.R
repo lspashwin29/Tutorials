@@ -1,5 +1,5 @@
 # Since not all numbers can be represented exactly in floating point arithmetic, 
-# the round function doesn't work accurately all the time. 
+# the round function in base R doesn't work accurately all the time. 
 # smartRound is a function that solves this issue and gives you more accurate results!
 
 smartRound <- function(number, i=0) {
