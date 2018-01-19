@@ -1,3 +1,9 @@
+# When a data.frame is output to a spreadsheet, it is sometimes useful for the end-user to know how many 
+# non-missing values are there per column. This R function eliminates the additional tasks (filtering and counting 
+# in excel, etc.) the end-user will have to perform to find the number of non-missing values per column by 
+# displaying it at the top.
+
+
 function_flagCount <- function(dataFrame) {
   # A function to calculate number of non-missing values in each column of a data.frame
   # 
